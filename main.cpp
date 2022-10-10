@@ -9,9 +9,8 @@ using namespace std;
 
 
 //--------------------------------Manually to be edited
-string version = "V1.0";
-string dev_team = "Barret Klics, Toshi Biwas, Tanish Datta, Sam Schroeder";
-string release_date = "when its done lol";
+string version = "V1.8";
+string dev_team = "Tanish Datta, Barret Klics, Toshi Biwas, Sam Schroeder";
 //-----------------------------------------------------------------------------------
 
 
@@ -22,7 +21,6 @@ int main(){
 	
 	cout << "Student Registration System: " << version << endl;
 	cout << "Developement Team: "<< dev_team << endl;
-	cout << "Release Date: " << release_date << endl;
 	cout << endl;
 	
 	enter_wait();
